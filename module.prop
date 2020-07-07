@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=enablemultiuser
+name=Enable Multiuser
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=adilhanney
+description=A small script to systemlessly enable multi-user (Samsung has this disabled by default).
